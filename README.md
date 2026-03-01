@@ -1,22 +1,22 @@
-🏦 Intelligent Credit Risk Scoring Engine
+<!-- 🏦 Intelligent Credit Risk Scoring Engine -->
 
 
-Milestone 1: Intro to GenAI Capstone | NST Sonipat
+<!-- Milestone 1: Intro to GenAI Capstone | NST Sonipat -->
 
 
-📌 Project Overview
+<!-- 📌 Project Overview -->
 This project is a high-performance Credit Risk Prediction System designed to evaluate loan applications and predict the probability of default. In strict adherence to the project guidelines, the core logic is built using Traditional Machine Learning and Deep Learning techniques, ensuring complete technical transparency and manual logic implementation.
 
 
-🔗 Live Demo
+<!-- 🔗 Live Demo -->
 Hosted Link: [https://creditriskapp-midsem.streamlit.app/]
 
 
-📺 Video Link
+<!-- 📺 Video Link -->
 Watch the Project Demonstration Video: [. ]
 
 
-🛠️ Technical Integrity & "No GenAI" Affirmation
+<!-- 🛠️ Technical Integrity & "No GenAI" Affirmation -->
 As per the evaluation criteria, I formally affirm that the core logic, model training, and decision-making pipelines of this project are my own work and are not direct outputs of Generative AI.
 
 3 Distinct Technical Sub-Features =>
@@ -42,7 +42,7 @@ CREDIT_RISK_APP/
 └── train_model.py           # Core script for preprocessing and ML training
 
 
-📊 Model Performance Summary
+<!-- 📊 Model Performance Summary -->
 
 Based on the Technical Implementation criteria, we include a baseline comparison between our two models:
 
@@ -51,7 +51,7 @@ Logistic Regression         0.85 approx       0.87 approx              High Expl
 Random Forest               ~0.92+            ~0.94+                   Superior Accuracy & Non-linear capture 
 
 
-👥 Team Contributions (Milestone 1)
+<!-- 👥 Team Contributions (Milestone 1) -->
 
 According to our specialized work distribution:
 
