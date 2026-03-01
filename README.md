@@ -1,11 +1,13 @@
-<!-- 🏦 Intelligent Credit Risk Scoring Engine -->
+<!-- 💳 Project 10: Intelligent Credit Risk Scoring & Agentic Lending Decision Support -->
 
-
-<!-- Milestone 1: Intro to GenAI Capstone | NST Sonipat -->
-
+From Financial Risk Modeling to Automated Lending Advice
 
 <!-- 📌 Project Overview -->
-This project is a high-performance Credit Risk Prediction System designed to evaluate loan applications and predict the probability of default. In strict adherence to the project guidelines, the core logic is built using Traditional Machine Learning and Deep Learning techniques, ensuring complete technical transparency and manual logic implementation.
+This project involves the design and implementation of an AI-driven credit analytics system that evaluates borrower credit risk and evolves into an agentic AI lending decision support assistant.
+
+Milestone 1 (Current): Classical machine learning techniques applied to historical borrower data to predict creditworthiness, default probability, and loan risk.
+
+Milestone 2 (Future): Extension into an agent-based AI application that autonomously reasons about borrower profiles and retrieves regulatory guidelines using RAG.
 
 
 <!-- 🔗 Live Demo -->
@@ -14,6 +16,15 @@ Hosted Link: [https://creditriskapp-midsem.streamlit.app/]
 
 <!-- 📺 Video Link -->
 Watch the Project Demonstration Video: [. ]
+
+
+<!-- 🛠️ Technology Stack (Milestone 1) -->
+
+Component                 Technology
+ML Models                 Logistic Regression, Random Forest, Scikit-Learn 
+UI Framework              Streamlit 
+Hosting                   Streamlit Community Cloud 
+Environment               Python 3.13
 
 
 <!-- 🛠️ Technical Integrity & "No GenAI" Affirmation -->
@@ -28,7 +39,8 @@ As per the evaluation criteria, I formally affirm that the core logic, model tra
 3. Real-time Risk Dashboard: A sophisticated Streamlit interface featuring "Glass Cards," real-time inference, and visual risk-driver analysis.
 
 
-📂 Repository Structure
+<!-- 📂 Repository Structure --> 
+
 CREDIT_RISK_APP/
 ├── .gitignore               # Prevents tracking of junk files and environments
 ├── app.py                   # Main Streamlit application and UI logic
