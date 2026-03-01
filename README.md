@@ -9,7 +9,11 @@ This project is a high-performance Credit Risk Prediction System designed to eva
 
 
 🔗 Live Demo
-Hosted Link: [Insert Your Streamlit URL Here]
+Hosted Link: [https://creditriskapp-midsem.streamlit.app/]
+
+
+📺 Video Link
+Watch the Project Demonstration Video: [. ]
 
 
 🛠️ Technical Integrity & "No GenAI" Affirmation
@@ -38,3 +42,27 @@ CREDIT_RISK_APP/
 └── train_model.py           # Core script for preprocessing and ML training
 
 
+📊 Model Performance Summary
+
+Based on the Technical Implementation criteria, we include a baseline comparison between our two models:
+
+Model                       Accuracy          ROC-AUC Score            Primary Strength
+Logistic Regression         0.85 approx       0.87 approx              High Explainability & Fast Inference 
+Random Forest               ~0.92+            ~0.94+                   Superior Accuracy & Non-linear capture 
+
+
+👥 Team Contributions (Milestone 1)
+
+According to our specialized work distribution:
+
+Himani Pinjani (Member 1): The Data Engineer
+Responsibility: Find the dataset and write the Python scripts to clean it.
+
+Ankita Thakur (Member 2): The ML Engineer
+Responsibility: Build and train the actual prediction models.
+
+Anshu Yadav (Member 3): UI Developer and Deployment Lead
+Responsibility: Build the interface and Ensure the project is submitted correctly and runs online.
+
+Farhana Pervin (Member4): Documentation Lead
+Responsibility: Created the Model Performance Evaluation Report.
